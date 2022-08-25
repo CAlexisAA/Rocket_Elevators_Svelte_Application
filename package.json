@@ -19,5 +19,8 @@
     "svelte": "^3.44.0",
     "svelte-preprocess": "^4.10.1"
   },
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "svelte-web3": "^3.5.2"
+  }
 }

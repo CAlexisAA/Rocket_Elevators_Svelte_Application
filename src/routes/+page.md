@@ -1,5 +1,5 @@
 ---
-title: HTML Elements
+title: HOME
 layout: post
 ---
 <script>
@@ -11,6 +11,6 @@ layout: post
 <Home />
 
 <svelte:head>
-  <title>Home | Chola Sveltekit Template</title>
+  <title>Home | My Sveltekit App</title>
   <meta name="description" content="A minimal content focused markdown sveltekit template.">
 </svelte:head>

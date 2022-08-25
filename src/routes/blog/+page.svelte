@@ -21,10 +21,10 @@
 </main>
 
 <svelte:head>
-  <title>Blog | Chola</title>
+  <title>NFT | My Svelte App</title>
   <meta
     name="description"
-    content="Chola - A minimal Sveltekit theme or template which uses mdsvex. Suitable for text based websites and blogs."
+    content="Svelte App | CodeBoxx Project"
   />
 </svelte:head>
 

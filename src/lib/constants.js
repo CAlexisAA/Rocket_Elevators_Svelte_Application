@@ -1,25 +1,17 @@
 const site = {
-  title: "Chola",
+  title: "Svelte Rocket",
   menus: [
     {
       name: "Home",
       url: "/",
     },
     {
-      name: "Blog",
+      name: "NFT",
       url: "/blog",
     },
     {
-      name: "About",
-      url: "/about",
-    },
-    {
-      name: "Contact",
-      url: "/contact",
-    },
-    {
-      name: "Download",
-      url: "https://github.com/sharu725/chola",
+      name: "Portfolio",
+      url: "/portfolio",
     },
   ],
 };
