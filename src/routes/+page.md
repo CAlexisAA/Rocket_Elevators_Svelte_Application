@@ -11,6 +11,6 @@ layout: post
 <Home />
 
 <svelte:head>
-  <title>Home | My Sveltekit App</title>
+  <title>Home | Svelte App</title>
   <meta name="description" content="A minimal content focused markdown sveltekit template.">
 </svelte:head>

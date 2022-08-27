@@ -171,3 +171,10 @@ blockquote p:last-child {
     padding-left: 1.25rem;
   }
 }
+
+img {
+  display: flex;
+  left: 415px;
+  top: 350px;
+  width: 670px;
+}

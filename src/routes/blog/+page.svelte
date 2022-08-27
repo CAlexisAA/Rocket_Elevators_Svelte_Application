@@ -21,7 +21,7 @@
 </main>
 
 <svelte:head>
-  <title>NFT | My Svelte App</title>
+  <title>NFT | Svelte App</title>
   <meta
     name="description"
     content="Svelte App | CodeBoxx Project"

@@ -7,6 +7,6 @@
 <slot />
 
 <svelte:head>
-  <title>{title} | Svelte APP</title>
+  <title>{title} | Svelte App</title>
   <meta name="description" content={description} />
 </svelte:head>
